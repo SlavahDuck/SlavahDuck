@@ -1,4 +1,4 @@
-hey, I'm slavah.
+Hey, I'm slavah.
 
 I make and mod games. Right now that's mostly Bannerfall, a fantasy army MMO I'm building in Unreal where you actually lead armies instead of running around alone. Used to play Kingdom Under Fire way too competitively, so yeah, it shows.
 
